@@ -27,6 +27,6 @@
 ##### This Figure shows that only staff has the permission of adding, deleting or updating the milk types.
 
 ![image](https://user-images.githubusercontent.com/98821434/164015468-fd3704c6-48a7-4e5b-ac12-62831178121b.png)
-##### shows all the requirements required by the staff to issue a bill to the customer.
+##### This figure shows all the requirements required by the staff to issue a bill to the customer.
 
 
